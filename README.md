@@ -1,6 +1,6 @@
-# sample README.md file
+# sample README.md
 
-<h1>Sample README.md</h1>
+<h1>README</h1>
 
 
-<p>This is a new project I am working on. It's Learn Enough HTML to be Dangerous.</p>
+<p>Sample website. Work in progress...</p>
